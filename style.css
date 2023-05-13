@@ -1,0 +1,38 @@
+
+body{
+    background-color: #f6790b;
+}
+.hihi{
+    width: 100%;
+    text-align: center;
+}
+.inp {
+    margin-left: 5%;
+    height: 24px;
+    width: 90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.entranceForm {
+    margin: auto;
+    width: 500px;
+    height: 660px;
+    background-color: aliceblue;
+}
+
+.submitBtn {
+    background-color: #f3cb9c;;
+    color: black;
+    margin-top: 20px;
+    margin-left: 5%;
+    width: 92%;
+}
+
+.pdTB10{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ml10 {
+margin-left: 24px;}
